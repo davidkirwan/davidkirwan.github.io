@@ -2,11 +2,11 @@
   "basics": {
     "name": "David Kirwan",
     "label": "Cloud Operations Engineer",
-    "picture": "",
+    "picture": "https://avatars3.githubusercontent.com/u/1700165?s=400&u=f178e1ed6a1cc5f10302d297d59a5da83b97aa72&v=4",
     "email": "davidkirwanirl@gmail.com",
     "phone": "+353 86 8624108",
     "website": "https://donttase.me",
-    "summary": "Hi my name is David Kirwan, I am a recent computing postgraduate from the Waterford Institute of Technology, and currently based in Waterford City, Ireland. I am an avid supporter of open source software / hardware and I have huge interest in STEM/STEAM(A - Art) fields in general. I'm particularly Interested in the maker movement, where I enjoy building interactive prototypes using embedded system such as Arduino and Raspberry Pi. I'm a member of the local makerspace the South East Makerspace (SEMS) and have been involved in several projects. See the [[b;#ffffff;#000]projects] command for a list of my projects.\n\nTime permitting, I also like to get involved in amateur astronomy and amateur radio. I maintain a 20.1MHz dual dipole antenna array and software defined radio receiver (HackRF), which can be configured for both local and non-terrestrial receiving. I passed my CEPT Class 2 amateur radio licence exam in 2017 (callsign: EI-7HTB). In the near future I hope to pursue a Ph.D program in an Astronomy/Computing field.",
+    "summary": "Hi my name is David Kirwan, I am a recent computing postgraduate from the Waterford Institute of Technology, and currently based in Waterford City, Ireland. I am an avid supporter of open source software / hardware and I have huge interest in STEM/STEAM(A - Art) fields in general. I'm particularly Interested in the maker movement, where I enjoy building interactive prototypes using embedded system such as Arduino and Raspberry Pi. I'm a member of the local makerspace the South East Makerspace (SEMS) and have been involved in several projects. See the [[b;#ffffff;#000]projects] command for a list of my projects.\n\nTime permitting, I also like to get involved in amateur astronomy and amateur radio. I maintain a 20.1MHz dual dipole antenna array and software defined radio receiver. I passed my CEPT Class 2 amateur radio licence exam in 2017 (callsign: EI-7HTB). In the near future I hope to pursue a Ph.D program in an Astronomy/Computing field.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -86,7 +86,7 @@
     {
       "institution": "Waterford Institute of Technology",
       "area": "Science (Communication Softare)",
-      "studyType": "Masters",
+      "studyType": "Master",
       "startDate": "2013-09-10",
       "endDate": "2015-05-28",
       "gpa": "2.1 2nd Class Honours",
@@ -135,17 +135,25 @@
   ],
   "interests": [
     {
+      "name": "Astronomy",
+      "keywords": [
+	"Radio Astronomy",
+	"Software Defined Radio",
+	"Jupiter - IO interactions"
+      ]
+    },
+    {
       "name": "Opensource",
       "keywords": [
 	"Open Software",
-	"Open by default",
+	"Open by default development",
 	"Open Hardware"
       ]
     },
     {
       "name": "Maker Movement",
       "keywords": [
-	"Electronisc",
+	"Electronics",
 	"Art",
 	"Engineering",
 	"Repurposing",
