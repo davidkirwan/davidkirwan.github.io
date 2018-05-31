@@ -6,7 +6,7 @@
     "email": "davidkirwanirl@gmail.com",
     "phone": "+353 86 8624108",
     "website": "https://donttase.me",
-    "summary": "Hi my name is David Kirwan, I am a recent computing postgraduate from the Waterford Institute of Technology, and currently based in Waterford City, Ireland. I am an avid supporter of open source software / hardware and I have huge interest in STEM/STEAM(A - Art) fields in general. I'm particularly Interested in the maker movement, where I enjoy building interactive prototypes using embedded system such as Arduino and Raspberry Pi. I'm a member of the local makerspace the South East Makerspace (SEMS) and have been involved in several projects. See the [[b;#ffffff;#000]projects] command for a list of my projects.\n\nTime permitting, I also like to get involved in amateur astronomy and amateur radio. I maintain a 20.1MHz dual dipole antenna array and software defined radio receiver (HackRF), which can be configured for both local and non-terrestrial receiving. I hope to pass my amateur radio licence exam in 2016. In the near future I hope to pursue a Ph.D program in an Astronomy/Computing field.",
+    "summary": "Hi my name is David Kirwan, I am a recent computing postgraduate from the Waterford Institute of Technology, and currently based in Waterford City, Ireland. I am an avid supporter of open source software / hardware and I have huge interest in STEM/STEAM(A - Art) fields in general. I'm particularly Interested in the maker movement, where I enjoy building interactive prototypes using embedded system such as Arduino and Raspberry Pi. I'm a member of the local makerspace the South East Makerspace (SEMS) and have been involved in several projects. See the [[b;#ffffff;#000]projects] command for a list of my projects.\n\nTime permitting, I also like to get involved in amateur astronomy and amateur radio. I maintain a 20.1MHz dual dipole antenna array and software defined radio receiver (HackRF), which can be configured for both local and non-terrestrial receiving. I passed my CEPT Class 2 amateur radio licence exam in 2017 (callsign: EI-7HTB). In the near future I hope to pursue a Ph.D program in an Astronomy/Computing field.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,68 +34,28 @@
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Red Hat",
+      "position": "Cloud Operations Engineer",
+      "website": "https://redhat.com",
+      "startDate": "2016-10-24",
+      "endDate": "Present",
+      "summary": "As Cloud Operations Engineer at Red Hat Mobile (FeedHenry acquired by Red Hat in October 2014), our team is responsible for a portfolio of global cloud infrastructure that powers our hosted mobile apps platform. This includes the management, administration, monitoring, security and scalability of the platform, as well as participating and innovating within the DevOps and Continuous Integration ethos therein.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Platform maintenance",
+        "Responsible for the rollout of new versions of the Red Hat Mobile Application Platform.",
+        "Involved in the Network Operations Center"
       ]
     },
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "TSSG",
+      "position": "Software Researcher",
+      "website": "https://tssg.org",
+      "startDate": "2013-06-01",
+      "endDate": "2016-10-01",
+      "summary": "TSSG is an internationally recognised centre of excellence for ICT research and innovation. We carry out a wide spectrum of industry-informed research in Information and Communications Technologies (ICT), particularly technologies enabling communications and information services.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    },
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    },
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    },
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Network QoS and Optimisation on Enterprise Ireland funded research project.",
+        "Energy Demand/Dispatch Optimisation for charging electric vehicles as part of EU funded FP7 FINESCE project."
       ]
     }
   ],
@@ -104,36 +64,33 @@
       "organization": "CoderDojo",
       "position": "Teacher",
       "website": "https://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
+      "startDate": "2012-06-01",
+      "endDate": "2014-06-01",
       "summary": "Global movement of free coding clubs for young people.",
       "highlights": [
-        ""
+        "Built an Android chat application in the class: https://github.com/coderdojowaterford/libretalk"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Waterford Institute of Technology",
+      "area": "Science (Applied Computing)",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "2009-09-10",
+      "endDate": "2013-05-28",
+      "gpa": "1.1 1st Class Honours",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
       ]
     },
     {
-      "institution": "University of Queensland",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Waterford Institute of Technology",
+      "area": "Science (Communication Softare)",
+      "studyType": "Masters",
+      "startDate": "2013-09-10",
+      "endDate": "2015-05-28",
+      "gpa": "2.1 2nd Class Honours",
       "courses": [
-        "DB1101 - Basic SQL",
         "CS2011 - Java Introduction"
       ]
     }
@@ -148,11 +105,11 @@
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "RSGB Public Radio Propagation Experiment",
+      "publisher": "Echo Ireland",
+      "releaseDate": "2015-09-01",
+      "website": "http://www.irts.ie/",
+      "summary": "Observing the effect a solar eclipse has on the propagation of radio signals."
     }
   ],
   "skills": [
@@ -164,36 +121,43 @@
         "CSS",
         "Javascript"
       ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
     }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Opensource",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+	"Open Software",
+	"Open by default",
+	"Open Hardware"
+      ]
+    },
+    {
+      "name": "Maker Movement",
+      "keywords": [
+	"Electronisc",
+	"Art",
+	"Engineering",
+	"Repurposing",
+	"Recyling",
+	"Repair"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "A.N. Other",
+      "reference": "Something nice!"
     }
   ]
 }
