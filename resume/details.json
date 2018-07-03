@@ -48,7 +48,7 @@
     },
     {
       "company": "TSSG",
-      "position": "Software Researcher",
+      "position": "Researcher",
       "website": "https://tssg.org",
       "startDate": "2013-06-01",
       "endDate": "2016-10-01",
@@ -68,7 +68,7 @@
       "endDate": "2014-06-01",
       "summary": "Global movement of free coding clubs for young people.",
       "highlights": [
-        "Built an Android chat application in the class: https://github.com/coderdojowaterford/libretalk"
+        "Built an Android chat application with the students in the class: https://github.com/coderdojowaterford/libretalk"
       ]
     }
   ],
@@ -91,7 +91,6 @@
       "endDate": "2015-05-28",
       "gpa": "2.1 2nd Class Honours",
       "courses": [
-        "CS2011 - Java Introduction"
       ]
     }
   ],
@@ -114,12 +113,32 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Ruby",
+      "level": "Advanced",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Sinatra",
+        "Rails"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+	"numpy",
+	"Jupyter"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": [
+	"Node.js"
       ]
     }
   ],
