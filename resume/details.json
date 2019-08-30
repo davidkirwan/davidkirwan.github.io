@@ -21,9 +21,9 @@
         "url": "https://github.com/davidkirwan/"
       },
       {
-        "network": "Resume",
+        "network": "blog",
         "username": "",
-        "url": "https://dl.dropboxusercontent.com/u/19443068/david_kirwan_resume_2016_09_14.pdf"
+        "url": "https://blog.donttase.me"
       }
     ]
   },
@@ -167,12 +167,14 @@
     {
       "name": "Maker Movement",
       "keywords": [
-	"Electronics",
 	"Art",
+	"Electronics",
 	"Engineering",
 	"Repurposing",
 	"Recyling",
-	"Repair"
+	"Repair",
+	"Woodworking",
+	"Welding"
       ]
     }
   ],
