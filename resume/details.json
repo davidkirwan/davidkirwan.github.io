@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "David Kirwan",
-    "label": "Cloud Operations Engineer",
+    "label": "Senior Software Engineer",
     "picture": "https://avatars3.githubusercontent.com/u/1700165?s=400&u=f178e1ed6a1cc5f10302d297d59a5da83b97aa72&v=4",
     "email": "davidkirwanirl@gmail.com",
     "phone": "+353 86 8624108",
-    "website": "https://donttase.me",
+    "website": "http://davidkirwan.github.io",
     "summary": "Hi my name is David Kirwan, I am a recent computing postgraduate from the Waterford Institute of Technology, and currently based in Waterford City, Ireland. I am an avid supporter of open source software / hardware and I have huge interest in STEM/STEAM(A - Art) fields in general. I'm particularly Interested in the maker movement, where I enjoy building interactive prototypes using embedded system such as Arduino and Raspberry Pi. I'm a member of the local makerspace the South East Makerspace (SEMS) and have been involved in several projects. See the [[b;#ffffff;#000]projects] command for a list of my projects.\n\nTime permitting, I also like to get involved in amateur astronomy and amateur radio. I maintain a 20.1MHz dual dipole antenna array and software defined radio receiver. I passed my CEPT Class 2 amateur radio licence exam in 2017 (callsign: EI-7HTB). In the near future I hope to pursue a Ph.D program in an Astronomy/Computing field.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Wateford City",
+      "city": "Kilkenny City",
       "countryCode": "IE",
-      "region": "Waterford"
+      "region": "Kilkenny"
     },
     "profiles": [
       {
@@ -22,18 +22,46 @@
       },
       {
         "network": "blog",
-        "username": "",
-        "url": "https://blog.donttase.me"
+        "username": "skyientist",
+        "url": "skyientist.blogspot.com"
       }
     ]
   },
   "work": [
     {
       "company": "Red Hat",
+      "position": "Senior Software Engineer",
+      "website": "https://redhat.com",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "As a software engineer at Red Hat on the Community Platform Engineer team, we are responsible for everything related to the infrastructure and release engineering for Fedora Linux and CentOS Stream Linux.",
+      "highlights": [
+        "Platform maintenance",
+        "Deployment and maintenance of multiple OpenShift clusters",
+        "Development of Communishift Authorisation Operator",
+        "Development of fas2discourse Operator",
+        "Working in a community facing team working on a major Opensource project",
+        "Work towards migration off Nagios and move towards Zabbix monitoring stack"
+      ]
+    },
+    {
+      "company": "Red Hat",
+      "position": "Integr8ly Engineer",
+      "website": "https://redhat.com",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "As a software engineer at Red Hat Integr8tly, our team is responsible for a improving the interoperability of Red Hat's portfolio on OpenShift.",
+      "highlights": [
+        "Platform maintenance",
+        "Contributions to monitoring stack AlertManager, Prometheus and Grafana for the Integr8tly Platform."
+      ]
+    },
+    {
+      "company": "Red Hat",
       "position": "Cloud Operations Engineer",
       "website": "https://redhat.com",
       "startDate": "2016-10-24",
-      "endDate": "Present",
+      "endDate": "2018",
       "summary": "As Cloud Operations Engineer at Red Hat Mobile (FeedHenry acquired by Red Hat in October 2014), our team is responsible for a portfolio of global cloud infrastructure that powers our hosted mobile apps platform. This includes the management, administration, monitoring, security and scalability of the platform, as well as participating and innovating within the DevOps and Continuous Integration ethos therein.",
       "highlights": [
         "Platform maintenance",
@@ -42,12 +70,12 @@
       ]
     },
     {
-      "company": "TSSG",
+      "company": "Walton Institute",
       "position": "Researcher",
-      "website": "https://tssg.org",
+      "website": "https://waltoninstitute.ie/",
       "startDate": "2013-06-01",
       "endDate": "2016-10-01",
-      "summary": "TSSG is an internationally recognised centre of excellence for ICT research and innovation. We carry out a wide spectrum of industry-informed research in Information and Communications Technologies (ICT), particularly technologies enabling communications and information services.",
+      "summary": "The Walton Institute is an internationally recognised centre of excellence for ICT research and innovation. We carry out a wide spectrum of industry-informed research in Information and Communications Technologies (ICT), particularly technologies enabling communications and information services.",
       "highlights": [
         "Network QoS and Optimisation on Enterprise Ireland funded research project.",
         "Energy Demand/Dispatch Optimisation for charging electric vehicles as part of EU funded FP7 FINESCE project."
@@ -57,7 +85,7 @@
   "volunteer": [
     {
       "organization": "CoderDojo",
-      "position": "Teacher",
+      "position": "Mentor",
       "website": "https://coderdojo.com/",
       "startDate": "2012-06-01",
       "endDate": "2014-06-01",
@@ -69,24 +97,22 @@
   ],
   "education": [
     {
-      "institution": "Waterford Institute of Technology",
+      "institution": "South East Technical University of Ireland",
       "area": "Science (Applied Computing)",
       "studyType": "Bachelor",
       "startDate": "2009-09-10",
       "endDate": "2013-05-28",
       "gpa": "1.1 1st Class Honours",
-      "courses": [
-      ]
+      "courses": []
     },
     {
-      "institution": "Waterford Institute of Technology",
+      "institution": "South East Technical University of Ireland",
       "area": "Science (Communication Softare)",
       "studyType": "Master",
       "startDate": "2013-09-10",
       "endDate": "2015-05-28",
       "gpa": "2.1 2nd Class Honours",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "awards": [
@@ -116,24 +142,44 @@
       ]
     },
     {
-      "name": "Python",
-      "level": "Intermediate",
+      "name": "Linux",
+      "level": "Advanced",
       "keywords": [
-	"numpy",
-	"Jupyter"
+        "Fedora",
+        "RHEL",
+        "Arch",
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Advanced",
+      "keywords": [
+        "Kubernetes",
+        "Podman",
+        "Docker",
+        "Containers",
+        "Openshift"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "numpy",
+        "Jupyter"
       ]
     },
     {
       "name": "Java",
       "level": "Intermediate",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Javascript",
       "level": "Intermediate",
       "keywords": [
-	"Node.js"
+        "Node js"
       ]
     }
   ],
@@ -141,6 +187,10 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
     },
     {
       "language": "German",
@@ -151,30 +201,30 @@
     {
       "name": "Astronomy",
       "keywords": [
-	"Radio Astronomy",
-	"Software Defined Radio",
-	"Jupiter - IO interactions"
+        "Radio Astronomy",
+        "Software Defined Radio",
+        "Jupiter - IO interactions"
       ]
     },
     {
       "name": "Opensource",
       "keywords": [
-	"Open Software",
-	"Open by default development",
-	"Open Hardware"
+        "Open Software",
+        "Open by default development",
+        "Open Hardware"
       ]
     },
     {
       "name": "Maker Movement",
       "keywords": [
-	"Art",
-	"Electronics",
-	"Engineering",
-	"Repurposing",
-	"Recyling",
-	"Repair",
-	"Woodworking",
-	"Welding"
+        "Art",
+        "Electronics",
+        "Engineering",
+        "Repurposing",
+        "Recyling",
+        "Repair",
+        "Woodworking",
+        "Welding"
       ]
     }
   ],
