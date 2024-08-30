@@ -6,7 +6,7 @@
     "email": "davidkirwanirl@gmail.com",
     "phone": "+353 86 8624108",
     "website": "http://davidkirwan.github.io",
-    "summary": "Hi my name is David Kirwan, I am a recent computing postgraduate from the Waterford Institute of Technology, and currently based in Waterford City, Ireland. I am an avid supporter of open source software / hardware and I have huge interest in STEM/STEAM(A - Art) fields in general. I'm particularly Interested in the maker movement, where I enjoy building interactive prototypes using embedded system such as Arduino and Raspberry Pi. I'm a member of the local makerspace the South East Makerspace (SEMS) and have been involved in several projects. See the [[b;#ffffff;#000]projects] command for a list of my projects.\n\nTime permitting, I also like to get involved in amateur astronomy and amateur radio. I maintain a 20.1MHz dual dipole antenna array and software defined radio receiver. I passed my CEPT Class 2 amateur radio licence exam in 2017 (callsign: EI-7HTB). In the near future I hope to pursue a Ph.D program in an Astronomy/Computing field.",
+    "summary": "Hi my name is David Kirwan, I am a computing postgraduate from the South East Technical University of Ireland, and currently based in Kilkenny City, Ireland. I am an avid supporter of open source software / hardware and I have huge interest in STEM/STEAM(A - Art) fields in general. I'm particularly Interested in the maker movement, where I enjoy building interactive prototypes using embedded system such as Arduino and Raspberry Pi. I've been a member of the local makerspace the South East Makerspace (SEMS) and was involved in several projects. See the [[b;#ffffff;#000]projects] command for a list of my projects.\n\nTime permitting, I also like to get involved in amateur astronomy and amateur radio (callsigns: EI7HTB, JK1XIU).\n\nLonger term goals I'd like to pursue a Ph.D program in an Astronomy/Computing field, and am also considering setting up my own business",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,6 +19,16 @@
         "network": "GitHub",
         "username": "davidkirwan",
         "url": "https://github.com/davidkirwan/"
+      },
+      {
+        "network": "Fosstodon",
+        "username": "@dkirwan",
+        "url": "https://fosstodon.org/@dkirwan"
+      },
+      {
+        "network": "Mastodon.radio",
+        "username": "@ei7htb",
+        "url": "https://mastodon.radio/@ei7htb"
       },
       {
         "network": "blog",
@@ -140,6 +150,11 @@
         "Sinatra",
         "Rails"
       ]
+    },
+    {
+      "name": "Ansible",
+      "level": "Advanced",
+      "keywords": []
     },
     {
       "name": "Linux",
