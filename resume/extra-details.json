@@ -40,6 +40,23 @@
     "  `+=+++;`",
     ""
   ],
+   "projectscompleted": [
+      {
+        "title": "three.js Eve Online Galaxy Map",
+        "description": "Prototype of the Eve Online Galaxy built using three.js",
+        "url": "https://davidkirwan.github.io/webgl-eve-galaxy/"
+      },
+      {
+        "title": "Software Defined Radio Telescope",
+        "description": "A POC SDR Radio Telescope.",
+        "url": "https://github.com/davidkirwan/software_defined_radio_telescope"
+      },
+      {
+        "title": "Numberstation",
+        "description": "A collection of utilities to aid in the running of your own number station.",
+        "url": "https://github.com/davidkirwan/number_station"
+      }
+  ],
   "countriestravelledto": [
     {
       "name": "USA",
