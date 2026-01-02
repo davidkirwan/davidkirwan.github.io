@@ -42,7 +42,7 @@
       "company": "Red Hat",
       "position": "Senior Software Engineer",
       "website": "https://redhat.com",
-      "startDate": "2020",
+      "startDate": "2016",
       "endDate": "Present",
       "summary": "As a software engineer at Red Hat on the Community Platform Engineer team, we are responsible for everything related to the infrastructure and release engineering for Fedora Linux and CentOS Stream Linux.",
       "highlights": [
@@ -51,32 +51,9 @@
         "Development of Communishift Authorisation Operator",
         "Development of fas2discourse Operator",
         "Working in a community facing team working on a major Opensource project",
-        "Work towards migration off Nagios and move towards Zabbix monitoring stack"
-      ]
-    },
-    {
-      "company": "Red Hat",
-      "position": "Integr8ly Engineer",
-      "website": "https://redhat.com",
-      "startDate": "2018",
-      "endDate": "2020",
-      "summary": "As a software engineer at Red Hat Integr8tly, our team is responsible for a improving the interoperability of Red Hat's portfolio on OpenShift.",
-      "highlights": [
-        "Platform maintenance",
-        "Contributions to monitoring stack AlertManager, Prometheus and Grafana for the Integr8tly Platform."
-      ]
-    },
-    {
-      "company": "Red Hat",
-      "position": "Cloud Operations Engineer",
-      "website": "https://redhat.com",
-      "startDate": "2016-10-24",
-      "endDate": "2018",
-      "summary": "As Cloud Operations Engineer at Red Hat Mobile (FeedHenry acquired by Red Hat in October 2014), our team is responsible for a portfolio of global cloud infrastructure that powers our hosted mobile apps platform. This includes the management, administration, monitoring, security and scalability of the platform, as well as participating and innovating within the DevOps and Continuous Integration ethos therein.",
-      "highlights": [
-        "Platform maintenance",
-        "Responsible for the rollout of new versions of the Red Hat Mobile Application Platform.",
-        "Involved in the Network Operations Center"
+        "Work towards migration off Nagios and move towards Zabbix monitoring stack",
+        "Contributions to monitoring stack AlertManager, Prometheus and Grafana for the Integr8tly Platform.",
+        "Responsible for the rollout of new versions of the Red Hat Mobile Application Platform."
       ]
     },
     {
@@ -117,7 +94,7 @@
     },
     {
       "institution": "South East Technical University of Ireland",
-      "area": "Science (Communication Softare)",
+      "area": "Science (Communication Software)",
       "studyType": "Master",
       "startDate": "2013-09-10",
       "endDate": "2015-05-28",
